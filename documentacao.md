@@ -1,4 +1,4 @@
-2. Benefícios para o Time de Desenvolvimento
+Benefícios para o Time de Desenvolvimento
 Controle de Versão: Facilita a rastreabilidade das alterações, garantindo que todos os membros do time possam ver as mudanças feitas nos artefatos.
 
 Colaboração: Permite que múltiplos desenvolvedores trabalhem simultaneamente nos mesmos projetos sem conflitos.
@@ -9,7 +9,7 @@ Auditorias: Facilita auditorias e conformidade com padrões de governança, como
 
 Recuperação de Alterações: Permite reverter para versões anteriores dos artefatos, minimizando os riscos de perda de dados ou introdução de erros.
 
-3. Reflexão sobre a Prática
+Reflexão sobre a Prática
 Aprendizado: Ao concluir esta prática, aprendi sobre a importância do gerenciamento de artefatos no ciclo de desenvolvimento de software. O uso de ferramentas de gestão de configuração, como GitHub, simplifica significativamente o controle, a colaboração e a segurança dos artefatos.
 
 Impacto nas Áreas de Estratégia, Governança, ITIL, COBIT e ESG:
